@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Virtual environments
+.env/
+.env.*.local
+ENV/
+env/
+venv/
+.venv/
+venv.bak/
+venv-*/
+
+# IDE / editor folders
+.idea/
+*.iml
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv / poetry / lockfiles
+Pipfile.lock
+poetry.lock
+
+# type checkers / linters / caches
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pytype/
+pylint-report.txt
+pylint-global.txt
+
+# test / coverage
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+htmlcov/
+.pytest_cache/
+
+# logs and temp
+*.log
+tmp/
+temp/
+
+# database
+*.sqlite3
+db.sqlite3
+
+# OS files
+Thumbs.db
+Desktop.ini

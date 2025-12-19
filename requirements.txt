@@ -1,0 +1,7 @@
+streamlit
+streamlit-drawable-canvas
+torch
+torchvision
+numpy
+Pillow
+scipy
